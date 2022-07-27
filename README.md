@@ -1,3 +1,6 @@
+* 📒博客或者笔记还未迁移到`vitepress`
+但是可以通过 [gitee](https://gitee.com/Yn_22638) 可以看到,其中最新的笔记还未把权限开给大家，等我这边整理好了，会统一通告，敬请期待~
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=10BCF7&center=true&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%B0%8F%E8%8E%AB%E7%9A%84%E4%B8%BB%E9%A1%B5)
 
 <div>
